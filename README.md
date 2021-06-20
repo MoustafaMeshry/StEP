@@ -10,7 +10,7 @@ To appear in CVPR 2021. <br><br>
 
 
 <figure class="image">
-  <img align="center" src="imgs/style_transfer.jpg" width="500px">
+  <img align="center" src="imgs/style_transfer.jpg" width="1000px">
 </figure>
 
 Official Tensorflow 1.15 implementation. The code was original developped in TF 1.13, but is updated to TF 1.15 for release.
